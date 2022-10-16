@@ -6,7 +6,7 @@
     
 </div>
  
-<div align="center"><br>
+<div><br>
  
   Linguagens💻
   <br> <br>
@@ -17,7 +17,7 @@
   <img align="center" alt="CSS-Didusantos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python-Didusantos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<div align="center">
+<div>
   Redes sociais📱✨
   <br> <br>
   <a href="https://www.instagram.com/eduardo_pbispo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,7 +28,7 @@
 ![snake gif](https://github.com/Didusantos/Didusantos/blob/output/github-contribution-grid-snake.svg)
 <h1> </h1>
 
-  <div align="center">
+  <div>
   Sobre mim✨✨ <br>
   - Apaixonado por programação <br>
   - Passa-tempo: Ouvir música ou jogar com amigos <br>
