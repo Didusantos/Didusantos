@@ -1,15 +1,12 @@
-
-  <div align="center">
+## Olá! eu sou Eduardo Porto Bispo
+<div align="center">
   <a href="https://github.com/Didusantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Didusantos&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didusantos&layout=compact&langs_count=7&theme=default"/><br>
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didusantos&layout=compact&langs_count=7&theme=default"/><br> <br>  
 </div>
  
-<div><br>
- 
-  Linguagens👨🏽‍💻 (Algumas ainda estou estudando!)
-  <br> <br>
+ ## Linguagens👨🏽‍💻 (Algumas ainda estou estudando!)
+<div>
   <img align="center" alt="Java-Didusantos" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Type Script-Didusantos" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="React-Didusantos" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -17,14 +14,14 @@
   <img align="center" alt="CSS-Didusantos" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Python-Didusantos" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Mysql-Didusantos" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-</div>
-<div>
-  Redes sociais📱✨
   <br> <br>
+</div>
+
+## Redes sociais📱✨
+<div>
   <a href="https://www.instagram.com/eduardo_pbispo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-porto-bispo-085645224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <br>
+  <br> <br>
 </div>
   
 ![snake gif](https://github.com/Didusantos/Didusantos/blob/output/github-contribution-grid-snake.svg)
